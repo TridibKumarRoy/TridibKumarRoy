@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Tridib Kumar Roy</h1>
+<h1 align="center">Hi  👋, I'm Tridib Kumar Roy</h1>
 <h3 align="center">Driven by passion, fueled by code, committed to excellence.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tridibkumarroy&label=Profile%20views&color=0e75b6&style=flat" alt="tridibkumarroy" /> </p>
